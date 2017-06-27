@@ -19,7 +19,8 @@ structure].
 - When a drawing is recovered from a saved state, the last 20 operations of
   "undo" should be remembered (you do not have to remember "infinite undo")
 - There should be a adjustable-pixel brush, a circle tool, a rectangle tool, and
-  a bucket tool **at a minimum**. Feel free to add other fun brushes as time allows.
+  a bucket tool **at a minimum**. Feel free to add other fun brushes, filters,
+  or tools as time allows.
 
 ### Bonus Features
 
